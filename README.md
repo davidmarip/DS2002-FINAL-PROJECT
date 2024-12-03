@@ -1,8 +1,6 @@
 # DS2002 - FINAL PROJECT: 
 ### COVID-19 Death Rates and Air Quality Analysis by Brynn Hill, Anika Tripathi, Clare Gibb, Deetya Gupta, and David Nu
 
-## (README.md IS NOT FINALIZED, just a quick sum up so far)
-
 
 ## Project Overview
 This project analyzes the relationship between COVID-19 death rates and air quality (measured via median AQI) across U.S. counties in 2020. The analysis utilizes an ETL (Extract, Transform, Load) pipeline to process raw datasets, extract insights, and visualize trends to better understand health and environmental factors.
@@ -40,37 +38,3 @@ The following Python libraries are required for this project:
 ### 3. **Annual AQI by County (2020)**
    - **Description**: Annual air quality index data for U.S. counties.
    - **Source**: Environmental Protection Agency (EPA)
-
-## Goals (README.md IS NOT FINALIZED)
-### 1. **ETL Pipeline Development**
-- Extract data from the provided datasets.
-- Transform data by:
-  - Cleaning and standardizing formats.
-  - Merging datasets to combine AQI, COVID-19 deaths, and population.
-  - Calculating "Deaths per 100,000 people."
-- Load cleaned and transformed data into MySQL.
-
-### 2. **Data Analysis**
-- Create the following visualizations:
-  - **Scatter Plot**: Unhealthy days (y-axis) vs. county (x-axis).
-  - **Bar Graph**: Deaths per 100,000 people (y-axis) vs. county (x-axis).
-- Summarize findings and trends.
-
-### 3. **Cloud Storage**
-- Set up Google Cloud storage to store processed datasets.
-- Document access control and cloud configuration.
-
-
-
-## I'll write some tests in regards to:
-### 1. **ETL Pipeline Validation**
-- Ensure all ETL steps (Extract, Transform, Load) execute without errors.
-- Verify "Deaths per 100,000 people" calculations are accurate.
-
-### 2. **Visualization Validation**
-- Confirm scatter plots and bar graphs correctly represent the transformed data.
-
-### 3. **Cloud Storage Verification**
-- Check that processed datasets are uploaded and accessible from Google Cloud.
-
-
