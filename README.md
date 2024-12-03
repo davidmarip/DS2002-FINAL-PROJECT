@@ -1,5 +1,5 @@
-# DS2002 - FINAL PROJECT: 
-### COVID-19 Death Rates and Air Quality Analysis by Brynn Hill, Anika Tripathi, Clare Gibb, Deetya Gupta, and David Nu
+# DS2002 - FINAL PROJECT: COVID-19 Death Rates and Air Quality Analysis
+### By Brynn Hill, Anika Tripathi, Clare Gibb, Deetya Gupta, and David Nu
 
 
 ## Project Overview
