@@ -91,11 +91,7 @@ The project relies on the following Python libraries:
 
 ## How to Run the Project
 
-#### 1. Clone the Repository or Download the Files
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-```
+#### 1. Download all the Files in `Datasets` Folder
 
 #### 2. Install Required Libraries
 
@@ -117,7 +113,7 @@ pip install pandas matplotlib google-cloud-storage
     ```
 
 - **Using Google Colab Authentication**
-
+  - We recommend using Colab, since it was the IDE our code is initially written in.
   - If running on Colab, use the following code snippet to authenticate:
 
     ```python
@@ -128,6 +124,7 @@ pip install pandas matplotlib google-cloud-storage
 #### 4. Prepare the Datasets
 
 Ensure that the CSV files (`covid.csv`, `population.csv`, `aqi_2020.csv`) are in the same directory as your script or notebook.
+(You can download these from the `Datasets` folder above!)
 
 - If using Google Colab, upload the files using:
 
