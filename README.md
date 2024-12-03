@@ -4,18 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Datasets](#datasets)
-- [Dependencies](#dependencies)
-- [How to Run the Project](#how-to-run-the-project)
-  - [Prerequisites](#prerequisites)
-  - [Running the Code](#running-the-code)
-- [Project Structure](#project-structure)
-
----
 
 ## Project Overview
 
@@ -89,7 +77,7 @@ The project relies on the following Python libraries:
 
 ---
 
-## How to Run the Project - For Documentation sake
+## How to Run the Project - For Documentation Sake
 
 #### 1. Download all the Files in `Datasets` Folder
 
