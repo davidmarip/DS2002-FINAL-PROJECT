@@ -89,7 +89,7 @@ The project relies on the following Python libraries:
 
 ---
 
-## How to Run the Project
+## How to Run the Project - For Documentation sake
 
 #### 1. Download all the Files in `Datasets` Folder
 
